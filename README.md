@@ -1,7 +1,6 @@
----
-layout: post
-title: "Welcome! From Tech+ to a registered company"
----
+
+ "Welcome! From Tech+ to a registered company"
+
 
 We joined **Tech+** on a whim, formed a team, and I ended up PM’ing.  
 As we built, the idea evolved from a productivity app into something **therapeutical**—a gentler way to plan, reflect, and keep going.
