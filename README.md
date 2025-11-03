@@ -39,8 +39,11 @@ We’re building in public — sharing progress, design sketches, and reflection
 ⭐ **Star** this repo or **Watch → Releases only** to get updates when we drop our first beta!  
 
 🌐 **Blog:** [https://a-d-h-do.github.io](https://a-d-h-do.github.io)  
+
 💌 **Contant:**   liliana20190726@gmail.com
-🛜 **Github:** https://github.com/A-D-H-Do
+
+🛜 [**Github:**] (https://github.com/A-D-H-Do)
+
 👉 [**Join our Beta Waitlist here**](https://forms.gle/8NixqNs3YyKriWYw8)
  
 
