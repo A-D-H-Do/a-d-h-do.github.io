@@ -42,7 +42,7 @@ We’re building in public — sharing progress, design sketches, and reflection
 
 💌 **Contant:**   liliana20190726@gmail.com
 
-🛜 [**Github:**] (https://github.com/A-D-H-Do)
+🛜 **Github:**  [https://github.com.A-D-H-Do](https://github.com/A-D-H-Do)
 
 👉 [**Join our Beta Waitlist here**](https://forms.gle/8NixqNs3YyKriWYw8)
  
